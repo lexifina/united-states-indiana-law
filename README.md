@@ -1,5 +1,7 @@
 # Git for the Indiana Code
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Indiana, United States, which global-law reads at `united-states/indiana/statutes/`.
+
 The Indiana Code, section by section, as a git history: the 2017 edition as the starting point, then a commit
 for each change in each later edition, to 2026-10-01. **Each commit is a change taking effect.** Its author is the
 act that made it, where the section's source note names one new act, and its date is the day the change took effect
