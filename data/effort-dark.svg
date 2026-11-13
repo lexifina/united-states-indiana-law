@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Indiana law as a git history</text>
+<rect x="280.8" y="24.5" width="61" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="311.2" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">8a10067</text>
+<rect x="349.6" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="424.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">record to Oct 1, 2026</text>
+<rect x="508.0" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="583.2" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">freshness: unverified</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">33</text>
+<text x="40.0" y="106" font-size="12" fill="#9198a1">acts</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">2,145</text>
+<text x="206.4" y="106" font-size="12" fill="#9198a1">changes, as commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">88,915</text>
+<text x="372.8" y="106" font-size="12" fill="#9198a1">provision files</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1,906</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1">laws and publishers credited</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">2017–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#9198a1">years of history</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Changes by the year they took effect</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">100</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">200</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">300</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">400</text>
+<text x="98.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2006</text>
+<text x="170.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2008</text>
+<text x="243.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
+<text x="315.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2012</text>
+<text x="387.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2014</text>
+<text x="460.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2016</text>
+<rect x="478.67" y="329.0" width="34.94" height="1.5" rx="1.5" fill="#2ea043"><title>2017: 1 change took effect</title></rect>
+<rect x="514.81" y="226.2" width="34.94" height="104.2" rx="1.5" fill="#2ea043"><title>2018: 278 changes took effect</title></rect>
+<text x="532.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2018</text>
+<rect x="550.96" y="212.4" width="34.94" height="118.1" rx="1.5" fill="#2ea043"><title>2019: 315 changes took effect</title></rect>
+<text x="568.4" y="206.4" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">315 in 2019</text>
+<rect x="587.10" y="258.5" width="34.94" height="72.0" rx="1.5" fill="#2ea043"><title>2020: 192 changes took effect</title></rect>
+<text x="604.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
+<rect x="623.24" y="241.2" width="34.94" height="89.2" rx="1.5" fill="#2ea043"><title>2021: 238 changes took effect</title></rect>
+<rect x="659.39" y="257.4" width="34.94" height="73.1" rx="1.5" fill="#2ea043"><title>2022: 195 changes took effect</title></rect>
+<text x="676.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2022</text>
+<rect x="695.53" y="230.0" width="34.94" height="100.5" rx="1.5" fill="#2ea043"><title>2023: 268 changes took effect</title></rect>
+<rect x="731.67" y="255.1" width="34.94" height="75.4" rx="1.5" fill="#2ea043"><title>2024: 201 changes took effect</title></rect>
+<text x="749.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2024</text>
+<rect x="767.81" y="232.6" width="34.94" height="97.9" rx="1.5" fill="#2ea043"><title>2025: 261 changes took effect</title></rect>
+<rect x="803.96" y="257.8" width="34.94" height="72.8" rx="1.5" fill="#2ea043"><title>2026: 194 changes took effect</title></rect>
+<text x="821.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">2,143 changes dated by their in-force day; 2 carry no in-force date. History type: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Completeness, checked against the official sources on Nov 13, 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">not held</text>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f85149">missing</text>
+<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">State code</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">7,368 of 7,368 chapters</text>
+<g><title>State code: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Amendment history</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">2,147 commits dated by In-force…</text>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">in-force history</text>
+<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Case law</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">92,707 of the 93,619 published decisions in CAP (to 2018)</text>
+<g><title>Case law: 99%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="692.0" y="443.5" width="90.6" height="8" rx="4" fill="#2ea043"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">99%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Local law</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">county and city ordinances</text>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">none held</text>
+<text x="456.0" y="518.5" font-size="13" fill="#f0f6fc">Verdict</text>
+<text x="456.0" y="534.5" font-size="11.5" fill="#9198a1">Holds every Indiana Code chapter in force (7,368; 464 more are…</text>
+<text x="839.5" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1"></text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Correctness of what is held</text>
+<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Changes with an in-force date</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">share of changes</text>
+<g><title>Changes with an in-force date: 99.9%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.4" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">99.9%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Changes citing their official source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#f0f6fc">Checked against the official source</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#9198a1">Indiana General Assembly</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">unknown</text>
+<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">global-law's checks</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">0 problems, 2 warnings</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#2ea043">passes</text>
+<text x="456.0" y="648.5" font-size="13" fill="#f0f6fc">Corpora for this state in global-law</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#9198a1">state acts: 1, case law: 3</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">4</text>
+<text x="456.0" y="684.5" font-size="13" fill="#f0f6fc">Record runs to</text>
+<text x="456.0" y="700.5" font-size="11.5" fill="#9198a1">freshness status: unverified</text>
+<text x="839.5" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">Oct 1, 2026</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/united-states-indiana-law at 8a10067, built 2026-11-13. Changes exclude documentation commits. Scope: from 2017</text>
+</svg>
